@@ -1,0 +1,81 @@
+Label,Label Description,Label Total Count,Most Common Co-occurring Label,Co-occurring Label Description,Co-occurring Label Total Count,Co-occurrence Count
+0,person,64115,2,car,12251,8519
+1,bicycle,3252,0,person,64115,2643
+2,car,12251,0,person,64115,8519
+3,motorcycle,3502,0,person,64115,2786
+4,airplane,2986,0,person,64115,1027
+5,bus,3952,0,person,64115,3011
+6,train,3588,0,person,64115,1627
+7,truck,6127,0,person,64115,3992
+8,boat,3025,0,person,64115,1987
+9,traffic light,4139,2,car,12251,2534
+10,fire hydrant,1711,2,car,12251,763
+11,stop sign,1734,2,car,12251,776
+12,parking meter,705,2,car,12251,474
+13,bench,5570,0,person,64115,4108
+14,bird,3237,0,person,64115,795
+15,cat,4114,0,person,64115,693
+16,dog,4385,0,person,64115,2049
+17,horse,2941,0,person,64115,2008
+18,sheep,1529,0,person,64115,368
+19,cow,1968,0,person,64115,615
+20,elephant,2143,0,person,64115,865
+21,bear,960,0,person,64115,80
+22,zebra,1916,23,giraffe,2546,197
+23,giraffe,2546,0,person,64115,438
+24,backpack,5528,0,person,64115,5034
+25,umbrella,3968,0,person,64115,3447
+26,handbag,6841,0,person,64115,6222
+27,tie,3810,0,person,64115,3632
+28,suitcase,2402,0,person,64115,1540
+29,frisbee,2184,0,person,64115,1821
+30,skis,3082,0,person,64115,3044
+31,snowboard,1654,0,person,64115,1622
+32,sports ball,4262,0,person,64115,4097
+33,kite,2261,0,person,64115,2099
+34,baseball bat,2506,0,person,64115,2477
+35,baseball glove,2629,0,person,64115,2602
+36,skateboard,3476,0,person,64115,3417
+37,surfboard,3486,0,person,64115,3365
+38,tennis racket,3394,0,person,64115,3361
+39,bottle,8501,0,person,64115,4561
+40,wine glass,2533,60,dining table,11837,1650
+41,cup,9189,0,person,64115,4848
+42,fork,3555,60,dining table,11837,2688
+43,knife,4326,60,dining table,11837,2736
+44,spoon,3529,45,bowl,7111,2101
+45,bowl,7111,60,dining table,11837,3396
+46,banana,2243,0,person,64115,928
+47,apple,1586,49,orange,1699,641
+48,sandwich,2365,60,dining table,11837,1341
+49,orange,1699,47,apple,1586,641
+50,broccoli,1939,60,dining table,11837,738
+51,carrot,1683,45,bowl,7111,720
+52,hot dog,1222,0,person,64115,692
+53,pizza,3166,60,dining table,11837,1707
+54,donut,1523,0,person,64115,835
+55,cake,2925,60,dining table,11837,1710
+56,chair,12774,0,person,64115,8035
+57,couch,4423,0,person,64115,2236
+58,potted plant,4452,0,person,64115,1962
+59,bed,3682,0,person,64115,1278
+60,dining table,11837,0,person,64115,5869
+61,toilet,3353,71,sink,4678,1677
+62,tv,4561,56,chair,12774,1990
+63,laptop,3524,0,person,64115,1754
+64,mouse,1876,66,keyboard,2115,1285
+65,remote,3076,0,person,64115,2058
+66,keyboard,2115,64,mouse,1876,1285
+67,cell phone,4803,0,person,64115,3830
+68,microwave,1547,69,oven,2877,903
+69,oven,2877,71,sink,4678,1168
+70,toaster,217,69,oven,2877,124
+71,sink,4678,39,bottle,8501,1774
+72,refrigerator,2360,69,oven,2877,1023
+73,book,5332,0,person,64115,2279
+74,clock,4659,0,person,64115,1905
+75,vase,3593,58,potted plant,4452,1374
+76,scissors,947,0,person,64115,390
+77,teddy bear,2140,0,person,64115,856
+78,hair drier,189,71,sink,4678,98
+79,toothbrush,1007,0,person,64115,540
